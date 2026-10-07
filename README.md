@@ -5,11 +5,6 @@ This project is primarily for **fun, learning, and self-improvement**.
 
 ---
 
-## Features
-- Entity Component System (ECS) architecture,
-- Currently supports **OpenGL 4.6**,
-- Written in  **C++ 20**,
-
 ## License
 
 This project is provided **for educational and hobby purposes only**.
