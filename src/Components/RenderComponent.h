@@ -2,8 +2,8 @@
 
 #include <memory>
 
-#include "../Graphics/Mesh.h"
-#include "../Graphics/Material.h"
+#include "../Assets/Mesh.h"
+#include "../Assets/Material.h"
 
 struct RenderComponent
 {

@@ -2,10 +2,10 @@
 
 #include <entt/entt.hpp>
 
-#include "../Graphics/Shader.h"
-#include "../Graphics/Mesh.h"
-#include "../Graphics/Texture2D.h"
-#include "../Graphics/CameraSystem.h"
+#include "../Assets/Shader.h"
+#include "../Assets/Mesh.h"
+#include "../Assets/Texture2D.h"
+#include "CameraSystem.h"
 
 #include "../Components/RenderComponent.h"
 

@@ -1,12 +1,12 @@
-#include "Window.h"
+#include "Core/Window.h"
 
 #include "Graphics/OpenGLContext.h"
 #include "Graphics/Renderer.h"
 
 #include "Systems/TransformSystem.h"
 
-#include "TimeStep.h"
-#include "Input.h"
+#include "Core/TimeStep.h"
+#include "Core/Input.h"
 
 std::vector<Vertex> vertices{
 	{

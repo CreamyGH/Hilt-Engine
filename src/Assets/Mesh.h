@@ -3,7 +3,7 @@
 #include <vector>
 #include <assert.h>
 
-#include "VertexData.h"
+#include "../Graphics/VertexData.h"
 
 #include <glad/glad.h>
 
